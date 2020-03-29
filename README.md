@@ -5,7 +5,7 @@ Suppose Germany ’s revenue forecast for 2009 is 645 million marks (DM) and UK 
 
 Our task is to target the respective call options of the two currencies, DM and BP, as shown in the below.
 <p align = "center">
-    <img src="./images/call options.png" width="50%">
+    <img src="./images/call options.PNG" width="50%">
 </p>
 
 Assuming that both currencies have a budget of 500 million, find out the combination of put options, and make Hedged Revenue achieve the following goals when it exchanges USD in 2009.
