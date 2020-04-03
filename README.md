@@ -53,6 +53,6 @@ I had posted the entire codes for two goals mentioned above.
 </p>
 
 <p align = "center">
-    <img src="./images/Reference Paper 2.jpg" width="50%">
+    <img src="./images/Reference Paper 2.jpg" width="80%">
 </p>
 
