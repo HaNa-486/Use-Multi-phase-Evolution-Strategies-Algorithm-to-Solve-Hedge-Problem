@@ -48,5 +48,11 @@ I had posted the entire codes for two goals mentioned above.
 
 ## Reference Paper
 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0377221710003115)
-[Img1](./images/Reference Paper 1.jpg)
-[Img2](./images/Reference Paper 2.jpg)
+<p align = "center">
+    <img src="./images/Reference Paper 1.jpg" width="50%">
+</p>
+
+<p align = "center">
+    <img src="./images/Reference Paper 2.jpg" width="50%">
+</p>
+
