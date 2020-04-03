@@ -1,4 +1,4 @@
-# Use Multi-phase Evolution Strategies Alogorthm to Solve Hedge Problem
+# Use Multi-phase Evolution Strategies Alogorithm to Solve Hedge Problem
 
 ## Brief Introduction 
 Suppose Germany ’s revenue forecast for 2009 is 645 million marks (DM) and UK revenue forecast is 272 million pounds (BP). However, at the end of 2008, the exchange rate of the end of 2009 is not known. Therefore, I have simulated 1000 sets of possible Exchange Rate Changes, please refer to [SimExRates.csv](SimExRates.csv).
